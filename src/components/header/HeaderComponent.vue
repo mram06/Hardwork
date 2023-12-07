@@ -8,10 +8,10 @@
           </div>
           <nav class="header__menu">
             <ul>
-              <router-link to="/about"><li>Вакансії</li></router-link>
-              <router-link to="/about"><li>Компанія</li></router-link>
-              <router-link to="/about"><li>Аналітика</li></router-link>
-              <router-link to="/about"><li>Медіа</li></router-link>
+              <router-link to="/vacancies"><li>Вакансії</li></router-link>
+              <router-link to="/company"><li>Компанія</li></router-link>
+              <router-link to="/analytics"><li>Аналітика</li></router-link>
+              <router-link to="/media"><li>Медіа</li></router-link>
             </ul>
           </nav>
           <div class="header__tools">

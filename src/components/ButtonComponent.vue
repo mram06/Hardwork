@@ -27,5 +27,11 @@ button {
 
   border-radius: 20px;
   background: #000;
+  &:hover {
+    background: #2c2c2c;
+  }
+  &:active {
+    background: #181818;
+  }
 }
 </style>
